@@ -22,10 +22,10 @@ Une application desktop pour gérer la **traduction française** du jeu *Star Ci
 - ⌨️ Import de configs clavier + backups
 - ☀️🌙 Mode clair/sombre
 - 💡 Interface moderne & épurée
-- 💾 Créez des sauvegardes de vos personnages pour ne jamais perdre vos progrès
+- 💾 Créez des sauvegardes et restaurez vos personnages
 
 > 🖥️ **Téléchargement .msi** dispo via la page [Releases](https://github.com/drrakendu78/TradSC/releases)  
-> 📚 **Comment installer :** [TradSC-docs](https://drrakendu78.github.io/TradSC-docs/)
+> 📚 ** Comment l’installer :** [Guide d’installation sur TradSC-docs](https://drrakendu78.github.io/TradSC-docs/)
 
 ---
 

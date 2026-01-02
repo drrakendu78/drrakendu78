@@ -2,7 +2,7 @@
 
 <p align="center">
   🧠 Passionné par les interfaces propres, <br>
-  🚀 je crée des outils simples mais utiles avec <b>Cursor</b>, <b>Tauri</b> & <b>React</b>.
+  🚀 je crée des outils simples mais utiles avec <b>Cursor et Claude code</b>, <b>Tauri</b> & <b>React</b>.
 </p>
 
 <p align="center">

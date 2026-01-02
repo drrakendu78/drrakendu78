@@ -25,7 +25,7 @@ Une application desktop pour gérer la **traduction française** du jeu *Star Ci
 - 💾 Créez des sauvegardes et restaurez vos personnages
 
 > 🖥️ **Téléchargement .msi** dispo via la page [Releases](https://github.com/drrakendu78/TradSC/releases)  
-> 📚 ** Comment l’installer :** [Guide d’installation sur TradSC-docs](https://drrakendu78.github.io/TradSC-docs/)
+> 📚 ** Comment l’installer :** [Guide d’installation sur Le site](https://startrad.link/)
 
 ---
 

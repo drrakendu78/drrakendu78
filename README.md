@@ -6,33 +6,59 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drrakendu78&style=for-the-badge&color=2f81f7&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=drrakendu78&style=for-the-badge&color=2f81f7&label=Vues+du+profil" alt="Vues du profil" />
 </p>
 
 ---
 
-### 💡 Projet principal
+### 💡 Projets principaux
 
-#### 🎯 [StarTrad FR](https://github.com/drrakendu78/TradSC)  
-Une application desktop pour gérer la **traduction française** du jeu *Star Citizen*, avec des fonctionnalités pensées pour la communauté :
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔤 Gestion des traductions
-- 🧹 Nettoyage du cache
-- 📰 Flux RSS d'actualités
-- ⌨️ Import de configs clavier + backups
-- ☀️🌙 Mode clair/sombre
-- 💡 Interface moderne & épurée
+#### 🎯 [StarTrad FR](https://github.com/drrakendu78/TradSC)
+
+Une application desktop pour gérer la **traduction française** de *Star Citizen* :
+
+- 🔤 Gestion des traductions  
+- 🧹 Nettoyage du cache  
+- 📰 Flux RSS d'actualités  
+- ⌨️ Import de configs clavier + backups  
+- ☀️🌙 Mode clair/sombre  
+- 💡 Interface moderne & épurée  
 - 💾 Création et restauration de sauvegardes personnages
 
-> 🖥️ **Téléchargement `.msi`** disponible via la page [Releases](https://github.com/drrakendu78/TradSC/releases)  
-> 📚 **Guide d'installation :** [Documentation TradSC](https://startrad.link/)
+> 🖥️ `.msi` : [Releases](https://github.com/drrakendu78/TradSC/releases)  
+> 📚 [Documentation TradSC](https://startrad.link/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 [UniCreate](https://github.com/drrakendu78/UniCreate)
+
+Application desktop pour créer et soumettre des manifestes **WinGet** :
+
+- 🧩 Wizard Installer → Metadata → Review → Submit  
+- 🔐 Auth GitHub + récupération des PR  
+- 🛰️ Statut PR live (Open / Merged / Closed)  
+- ✍️ Édition YAML dans l'étape Review  
+- 🔄 Update in-app + update silencieux Windows  
+- 📦 Build + checksums pour les releases
+
+> 🖥️ `.exe/.msi` : [Releases](https://github.com/drrakendu78/UniCreate/releases)  
+> 🌐 [Site UniCreate](https://drrakendu78.github.io/UniCreate/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🧰 Mes outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tauri,react,powershell,git,github,nodejs,rust,vscode,windows" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=tauri,react,powershell,git,github,nodejs,rust,vscode,windows" alt="Mes outils" />
 </p>
 
 ---
@@ -40,7 +66,7 @@ Une application desktop pour gérer la **traduction française** du jeu *Star Ci
 ### 📊 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drrakendu78&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=drrakendu78&include_all_commits=true&theme=github_dark_dimmed" alt="Stats GitHub" />
 </p>
 
 <p align="center">

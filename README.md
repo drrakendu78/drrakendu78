@@ -29,7 +29,7 @@ Une application desktop pour gérer la **traduction française** de *Star Citize
 - 💡 Interface moderne & épurée  
 - 💾 Création et restauration de sauvegardes personnages
 
-> 🖥️ `.exe` : [Releases](https://github.com/drrakendu78/TradSC/releases)  
+> 🖥️ `.exe/.msi/portable` : [Releases](https://github.com/drrakendu78/TradSC/releases)  
 > 📚 [Documentation TradSC](https://startrad.link/)
 
 </td>
@@ -46,7 +46,7 @@ Application desktop pour créer et soumettre des manifestes **WinGet** :
 - 🔄 Update in-app + update silencieux Windows  
 - 📦 Build + checksums pour les releases
 
-> 🖥️ `.exe/.msi` : [Releases](https://github.com/drrakendu78/UniCreate/releases)  
+> 🖥️ `.exe/.msi/portable` : [Releases](https://github.com/drrakendu78/UniCreate/releases)  
 > 🌐 [Site UniCreate](https://drrakendu78.github.io/UniCreate/)
 
 </td>

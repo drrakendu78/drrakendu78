@@ -13,7 +13,7 @@
 
 ### 💡 Projet principal
 
-#### 🎯 [StarTrad](https://github.com/drrakendu78/TradSC)  
+#### 🎯 [StarTrad FR](https://github.com/drrakendu78/TradSC)  
 Une application desktop pour gérer la **traduction française** du jeu *Star Citizen*, avec des fonctionnalités pensées pour la communauté :
 
 - 🔤 Gestion des traductions

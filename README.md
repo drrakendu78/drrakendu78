@@ -1,8 +1,8 @@
 <h1 align="center">Salut, moi c'est Djamel 👋</h1>
 
 <p align="center">
-  🧠 Passionné par les interfaces propres,<br>
-  🚀 je crée des outils simples mais utiles avec <b>Cursor et Claude Code</b>, <b>Tauri</b> & <b>React</b>.
+  Développement d’outils et d’applications desktop, orienté fiabilité et automatisation.<br>
+  Stack : <b>Tauri</b> &amp; <b>React</b> — environnement : <b>Visual Studio Code</b> — parfois avec <b>Claude Code (Opus)</b>.
 </p>
 
 <p align="center">

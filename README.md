@@ -30,7 +30,7 @@ Une application desktop pour gérer la **traduction française** de *Star Citize
 - 💾 Création et restauration de sauvegardes personnages
 
 > 🖥️ `.exe/.msi/portable` : [Releases](https://github.com/drrakendu78/TradSC/releases)  
-> 📚 [Documentation TradSC](https://startrad.link/)
+> 📚 [[Site StarTrad FR](https://startrad.link/)
 
 </td>
 <td width="50%" valign="top">

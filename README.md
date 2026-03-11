@@ -88,6 +88,9 @@ Application desktop pour créer et soumettre des manifestes **WinGet** :
   <a href="https://drrakendu78.github.io/TradSC-docs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Documentation&logo=readthedocs&label=&color=gray&logoColor=white&style=for-the-badge" height="30" alt="Documentation" />
   </a>
+  <a href="https://djamellazreg.fr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Site+Web&logo=firefox&label=&color=FF7139&logoColor=white&style=for-the-badge" height="30" alt="Site Web" />
+  </a>
 </p>
 
 ---

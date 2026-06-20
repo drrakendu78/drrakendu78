@@ -17,7 +17,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 [StarTrad FR](https://github.com/drrakendu78/TradSC)
+#### 🎯 [stelliverse](https://github.com/drrakendu78/TradSC)
 
 Une application desktop pour gérer la **traduction française** de *Star Citizen* :
 
